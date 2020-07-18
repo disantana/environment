@@ -34,6 +34,6 @@ installDocker(){
 }
 
 
-#createDir "/home/$USER"
-#installTools
+createDir "/home/$USER"
+installTools
 installDocker
